@@ -8,4 +8,8 @@ A atividade foi composta de vários cenários para trabalhar atributos,cardinali
  # Ferramentas
 Foi utilizado para criar os modelos conceituais a ferramenta br modelo é e claro também foi feito no caderno para os alunos aprenderem todos os conceitos necessárias .Esse modelo desenhado foi a base do modelo lógico e físico.
 
+# Comandos 
+Foram usados comandos DDL em todas as modelagens que são create database e create table além de declaração de 
+dados e o tipo de dados para cada informação a ser registrada.
+
 
