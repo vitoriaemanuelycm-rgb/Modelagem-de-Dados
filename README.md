@@ -6,7 +6,7 @@ Para fixar toda a teoria foi feito uma atividade avaliativa onde foi cobrado o c
 A atividade foi composta de vários cenários para trabalhar atributos,cardinalidade , relacionamento e entidades.
 
  ## Ferramentas
-Foi utilizado para criar os modelos conceituais a ferramenta br modelo é e claro também foi feito no caderno para os alunos aprenderem todos os conceitos necessárias .Esse modelo desenhado foi a base do modelo lógico e físico.
+Foi utilizado para criar os modelos conceituais a ferramenta br modelo é e claro também foi feito no caderno para os alunos aprenderem todos os conceitos necessárias .Esse modelo desenhado foi a base do modelo lógico e físico. Para o modelo físico foi usado o mysql workbench 8.0 ce com databese criados expecificamente para cada cénario.
 
 ## Comandos 
 Foram usados comandos DDL em todas as modelagens que são create database e create table além de declaração de 
